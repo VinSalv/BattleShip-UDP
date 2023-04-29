@@ -2,7 +2,7 @@
 
 ### Start the server
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45711698/235294726-39480878-6935-46fd-a3a9-a3626d8ac696.png)" />
+ <img src="https://user-images.githubusercontent.com/45711698/235294726-39480878-6935-46fd-a3a9-a3626d8ac696.png" />
 </p>
 
 ### Run the client
