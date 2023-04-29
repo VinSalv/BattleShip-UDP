@@ -12,10 +12,10 @@
 
 ### Position the ships
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45711698/235294678-187e7a08-15df-4ba5-91f7-ac6a6794263d.png)" />
+ <img src="https://user-images.githubusercontent.com/45711698/235294678-187e7a08-15df-4ba5-91f7-ac6a6794263d.png" />
 </p>
 
 ### Start the battle
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45711698/235294682-bffe0d40-816c-4c94-b15f-5af25e1c953f.png)" />
+ <img src="https://user-images.githubusercontent.com/45711698/235294682-bffe0d40-816c-4c94-b15f-5af25e1c953f.png" />
 </p>
