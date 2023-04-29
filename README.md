@@ -1,4 +1,4 @@
-# BattleShip-UDP-User-Datagram-Protocol
+# BattleShip UDP (User Datagram Protocol)
 
 ### Start the server
 <p align="center">
